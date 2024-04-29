@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="avatars">
+    <file>../avatars/Avatars.png</file>
+    <file>../avatars/Avatars-removebg-preview (1).png</file>
+    <file>../avatars/Avatars-removebg-preview (2).png</file>
+    <file>../avatars/Avatars-removebg-preview (3).png</file>
+    <file>../avatars/Avatars-removebg-preview (4).png</file>
+    <file>../avatars/Avatars-removebg-preview (5).png</file>
+    <file>../avatars/Avatars-removebg-preview (6).png</file>
+    <file>../avatars/Avatars-removebg-preview (7).png</file>
+    <file>../avatars/Avatars-removebg-preview (8).png</file>
+    <file>../avatars/Avatars-removebg-preview (9).png</file>
+    <file>../avatars/Avatars-removebg-preview (10).png</file>
+    <file>../avatars/Avatars-removebg-preview (11).png</file>
+    <file>../avatars/Avatars-removebg-preview (12).png</file>
+    <file>../avatars/Avatars-removebg-preview.png</file>
+  </qresource>
+  <qresource prefix="icons-logo">
+    <file>../icons-logo/compose.png</file>
+    <file>../icons-logo/edit (1).png</file>
+    <file>../icons-logo/edit.png</file>
+    <file>../icons-logo/exit.png</file>
+    <file>../icons-logo/Girl on phone.png</file>
+    <file>../icons-logo/home (1).png</file>
+    <file>../icons-logo/home (2).png</file>
+    <file>../icons-logo/home.png</file>
+    <file>../icons-logo/icons8-x-96.png</file>
+    <file>../icons-logo/list (1).png</file>
+    <file>../icons-logo/list.png</file>
+    <file>../icons-logo/Logo_tweet.png</file>
+    <file>../icons-logo/Logo_tweet2.png</file>
+    <file>../icons-logo/loupe.png</file>
+    <file>../icons-logo/return.png</file>
+    <file>../icons-logo/search.png</file>
+    <file>../icons-logo/Two friends.png</file>
+  </qresource>
+  <qresource prefix="banners">
+    <file>../banners/banner1.png</file>
+    <file>../banners/banner2.png</file>
+    <file>../banners/banner3.png</file>
+    <file>../banners/banner4.png</file>
+    <file>../banners/banner5.png</file>
+    <file>../banners/banner6.png</file>
+    <file>../banners/banner7.png</file>
+    <file>../banners/banner8.png</file>
+  </qresource>
+</RCC>

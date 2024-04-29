@@ -1,0 +1,38 @@
+
+function format:
+'''
+Returns tweet info
+Parameters:
+    -json_data: json type object
+Returns:
+    -tweet_id: '655f1469787220b6f884a1f8'
+    -tweet_date: '2021-03-30T03:33:23+00:00'
+    -tweet_content: 'bla bla bla'
+    -username: 'kaursuk06272818'
+'''
+
+class format:
+'''
+A class representing the login menu. 
+
+Attributes(non Qt attributes):
+    -user_data (dict): Stores user profile information.
+    -picture_path (str): Path to the directory where profile pictures are stored.
+Methods:
+    -create_profile(username, data): Create a new user profile.
+    -update_profile(username, new_data): Update an existing user profile.
+    -get_profile(username): Retrieve a user's profile information.
+    -upload_picture(username, picture): Upload a profile picture for a user.
+    -delete_profile(username): Delete a user profile.
+
+
+'''
+
+
+Returns tweet info
+Attributes(non Qt attributes):
+    -
+Parameters:
+    -
+Returns:
+    -
