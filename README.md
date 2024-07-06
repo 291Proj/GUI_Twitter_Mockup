@@ -1,6 +1,6 @@
 # GUI_Twitter_Mockup (Still working on it) 
 
- GUI for a Twitter SQL database that allows the User to:
+ GUI for a [Twitter SQL database](https://github.com/291Proj/Mini-SQL-Project) that allows the User to:
 - Login
 - Signup
 - Search for Tweets
